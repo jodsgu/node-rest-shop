@@ -113,6 +113,7 @@ app.use((err,req,res,next)=>{
   }
 
 }); */
+//server listing
 app.listen(4000,()=>{
   
   console.log('listing port 4000')
